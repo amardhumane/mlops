@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/8f5d25f4a37a4296803405169b342a7b/artifacts
+end_time: 1697434064780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f5d25f4a37a4296803405169b342a7b
+run_name: useful-trout-433
+run_uuid: 8f5d25f4a37a4296803405169b342a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697434062400
+status: 4
+tags: []
+user_id: amar

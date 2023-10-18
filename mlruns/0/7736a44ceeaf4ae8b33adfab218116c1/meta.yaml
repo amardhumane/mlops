@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/7736a44ceeaf4ae8b33adfab218116c1/artifacts
+end_time: 1697433996527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7736a44ceeaf4ae8b33adfab218116c1
+run_name: gregarious-snipe-437
+run_uuid: 7736a44ceeaf4ae8b33adfab218116c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697433994531
+status: 4
+tags: []
+user_id: amar

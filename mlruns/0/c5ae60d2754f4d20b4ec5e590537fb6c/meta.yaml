@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/c5ae60d2754f4d20b4ec5e590537fb6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ae60d2754f4d20b4ec5e590537fb6c
+run_name: intrigued-rat-607
+run_uuid: c5ae60d2754f4d20b4ec5e590537fb6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697433491422
+status: 1
+tags: []
+user_id: amar

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/0078be5de7fa448fbb67a0aaddb2ec34/artifacts
+end_time: 1697439255636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0078be5de7fa448fbb67a0aaddb2ec34
+run_name: bright-penguin-298
+run_uuid: 0078be5de7fa448fbb67a0aaddb2ec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697439253525
+status: 4
+tags: []
+user_id: amar

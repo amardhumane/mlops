@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/531aa3e149164b2186cd35a7a16690f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 531aa3e149164b2186cd35a7a16690f3
+run_name: useful-loon-143
+run_uuid: 531aa3e149164b2186cd35a7a16690f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697433237980
+status: 1
+tags: []
+user_id: amar

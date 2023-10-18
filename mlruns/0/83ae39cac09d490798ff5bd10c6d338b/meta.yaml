@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/83ae39cac09d490798ff5bd10c6d338b/artifacts
+end_time: 1697439214107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ae39cac09d490798ff5bd10c6d338b
+run_name: intrigued-shrimp-936
+run_uuid: 83ae39cac09d490798ff5bd10c6d338b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697439211227
+status: 4
+tags: []
+user_id: amar

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/2e84b7ef033a41f6b081c4332473c7d2/artifacts
+end_time: 1697443820930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e84b7ef033a41f6b081c4332473c7d2
+run_name: train
+run_uuid: 2e84b7ef033a41f6b081c4332473c7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697443799796
+status: 3
+tags: []
+user_id: amar

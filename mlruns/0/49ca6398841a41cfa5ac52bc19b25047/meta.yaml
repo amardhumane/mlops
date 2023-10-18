@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/49ca6398841a41cfa5ac52bc19b25047/artifacts
+end_time: 1697519495712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ca6398841a41cfa5ac52bc19b25047
+run_name: data-pipeline
+run_uuid: 49ca6398841a41cfa5ac52bc19b25047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697519472077
+status: 3
+tags: []
+user_id: amar

@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.7.16
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+run_id: 88adc6ec2ccc40e6af4a183fdb23beed
+signature:
+  inputs: '[{"name": "year", "type": "long"}, {"name": "hour_of_day", "type": "double"},
+    {"name": "is_holiday", "type": "long"}, {"name": "weekday", "type": "long"}, {"name":
+    "is_workingday", "type": "long"}, {"name": "temperature", "type": "double"}, {"name":
+    "feels_like_temperature", "type": "double"}, {"name": "humidity", "type": "double"},
+    {"name": "windspeed", "type": "double"}, {"name": "year.1", "type": "long"}, {"name":
+    "dayofweek", "type": "long"}, {"name": "year_season", "type": "double"}, {"name":
+    "hour_workingday_casual", "type": "long"}, {"name": "hour_workingday_registered",
+    "type": "long"}, {"name": "count_season", "type": "double"}, {"name": "season_1",
+    "type": "long"}, {"name": "season_2", "type": "long"}, {"name": "season_3", "type":
+    "long"}, {"name": "season_4", "type": "long"}, {"name": "weathersit_1", "type":
+    "long"}, {"name": "weathersit_2", "type": "long"}, {"name": "weathersit_3", "type":
+    "long"}, {"name": "weathersit_4", "type": "long"}, {"name": "mnth_1", "type":
+    "long"}, {"name": "mnth_2", "type": "long"}, {"name": "mnth_3", "type": "long"},
+    {"name": "mnth_4", "type": "long"}, {"name": "mnth_5", "type": "long"}, {"name":
+    "mnth_6", "type": "long"}, {"name": "mnth_7", "type": "long"}, {"name": "mnth_8",
+    "type": "long"}, {"name": "mnth_9", "type": "long"}, {"name": "mnth_10", "type":
+    "long"}, {"name": "mnth_11", "type": "long"}, {"name": "mnth_12", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2023-10-16 05:29:23.652565'

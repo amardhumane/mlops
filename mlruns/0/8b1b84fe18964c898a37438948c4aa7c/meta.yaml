@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/8b1b84fe18964c898a37438948c4aa7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8b1b84fe18964c898a37438948c4aa7c
+run_uuid: 8b1b84fe18964c898a37438948c4aa7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441697089
+status: 1
+tags: []
+user_id: amar

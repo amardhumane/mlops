@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/3eb1bd4e6d634af8b05cdbf5f6bf2c0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eb1bd4e6d634af8b05cdbf5f6bf2c0d
+run_name: nervous-fowl-823
+run_uuid: 3eb1bd4e6d634af8b05cdbf5f6bf2c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697433319581
+status: 1
+tags: []
+user_id: amar

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/3de3d853365f4cba8014f80f15ebf413/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de3d853365f4cba8014f80f15ebf413
+run_name: sneaky-squirrel-757
+run_uuid: 3de3d853365f4cba8014f80f15ebf413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697433649965
+status: 1
+tags: []
+user_id: amar
